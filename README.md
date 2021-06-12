@@ -5,5 +5,5 @@ It was 2 by 2 crossover design, and it created a 2*2 crossover study function. I
 
 NOTE: Because it was a very personal experiment, the results may vary from person to person.
 
-Member : Sodam Park(SKKU Statistics)
+Member : Sodam Park(SKKU Statistics)\
 Using tools : R
